@@ -1,4 +1,4 @@
-# SarahKhan-DEV
+# KhanCodes-0101
 # Hi there 👋 I'm Sarah!
 
 💻 I'm a student passionate about **programming**, **Machine Learning**, and **Open-source development**.  
